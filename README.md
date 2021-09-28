@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ransingh88" target="blank"><img src="https://img.shields.io/twitter/follow/ransingh88?logo=twitter&style=for-the-badge" alt="ransingh88" /></a> </p>
 
-- 🔭 I’m currently working on **Hotels.com Clone**
+- 🔭 I’m currently working on **Medium Clone**
 
 - 👨‍💻 All of my projects are available at [https://dransingh.netlify.app/](https://dransingh.netlify.app/)
 
