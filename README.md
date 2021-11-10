@@ -14,15 +14,17 @@
 
 
 
-- 🔭 I’m currently working on **Medium Clone**
+- 🔭 I’m currently working on **Projects...**
 
-- 👨‍💻 All of my projects are available at [https://dransingh.netlify.app/](https://dransingh.netlify.app/)
+- 👨‍💻 All of my projects are available at [here.](https://github.com/Ransingh88/projects)
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I regularly write articles on [Medium](https://medium.com/me/stories/public)
 
 - 💬 Ask me about **JavaScript, MongoDb, Express, React, NodeJs**
 
 - 📫 How to reach me **rajaransingh@gmail.com**
+
+- 🌐 Visit my portfolio [Portfolio](https://dransingh.netlify.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -39,7 +41,8 @@
 
 
 
-
+<p align="right"><img align="right" src="https://github.com/Ransingh88/Ransingh88/blob/main/pixeltrue-web-development-1.png" alt="ransingh88" width="300px"/></p><br/>
+<br/><br/><br/>
 <h3 align="left">Get Connected:</h3>
 <a href="https://twitter.com/ransingh88" target="_blank"><img align="left" src="https://github.com/Ransingh88/Ransingh88/blob/main/icons8-twitter.gif" alt="debasishransingh" width="25px" /></a>
 <a href="https://linkedin.com/in/debasish-ransingh-612437154" target="_blank"><img align="left" src="https://github.com/Ransingh88/Ransingh88/blob/main/icons8-linkedin-2.gif" alt="debasishransingh" width="25px" /></a>
@@ -48,6 +51,7 @@
 <a href="https://medium.com/@d_ransingh88" target="blank"><img align="left" src="https://github.com/Ransingh88/Ransingh88/blob/main/icons8-medium-monogram.gif" alt="debasishransigh" width="25px" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc9bqampdiybsx5zcpcbrnnw/featured" target="blank"><img align="left" src="https://github.com/Ransingh88/Ransingh88/blob/main/icons8-youtube-logo.gif" width="25px" /></a>
 <br />
+
 <!---
 Ransingh88/Ransingh88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
