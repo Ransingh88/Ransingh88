@@ -8,6 +8,7 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ransingh88" alt="ransingh88" /></a> </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ransingh88&" alt="ransingh88" /></p>
 
 
 
@@ -19,7 +20,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, MongoDb, Express, React, NodeJs**
 
 - 📫 How to reach me **rajaransingh@gmail.com**
 
@@ -36,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ransingh88&show_icons=true&locale=en" alt="ransingh88" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ransingh88&" alt="ransingh88" /></p>
+
 
 
 <h3 align="left">Get Connected:</h3>
