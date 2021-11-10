@@ -40,8 +40,8 @@
 
 
 <h3 align="left">Get Connected:</h3>
-<a href="https://twitter.com/ransingh88" target="blank"><img align="left" src="https://github.com/Ransingh88/Ransingh88/blob/main/icons8-twitter.gif" alt="debasishransingh" width="25px" /></a>
-<a href="https://linkedin.com/in/debasish-ransingh-612437154" target="blank"><img align="left" src="https://github.com/Ransingh88/Ransingh88/blob/main/icons8-linkedin-2.gif" alt="debasishransingh" width="25px" /></a>
+<a href="https://twitter.com/ransingh88" target="_blank"><img align="left" src="https://github.com/Ransingh88/Ransingh88/blob/main/icons8-twitter.gif" alt="debasishransingh" width="25px" /></a>
+<a href="https://linkedin.com/in/debasish-ransingh-612437154" target="_blank"><img align="left" src="https://github.com/Ransingh88/Ransingh88/blob/main/icons8-linkedin-2.gif" alt="debasishransingh" width="25px" /></a>
 <a href="https://instagram.com/d.ransingh88" target="blank"><img align="left" src="https://github.com/Ransingh88/Ransingh88/blob/main/icons8-instagram.gif" alt="debasishransingh" width="25px" /></a>
 <a href="https://medium.com/@d_ransingh88" target="blank"><img align="left" src="https://github.com/Ransingh88/Ransingh88/blob/main/icons8-medium-monogram.gif" alt="debasishransigh" width="25px" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc9bqampdiybsx5zcpcbrnnw/featured" target="blank"><img align="left" src="https://github.com/Ransingh88/Ransingh88/blob/main/icons8-youtube-logo.gif" width="25px" /></a>
